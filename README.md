@@ -59,5 +59,5 @@ Pluggable and user defined API.
 
 Minimize Total Cost of Ownership.
 
-#Technology, Cost and Speed Matters
-if a query runs 10 times faster on a new technology database, theoretically it should reduce the cost of infrastructure by 10 times. Practically, may be 7 to 9 times or may be more, and its considerable cost saving. (7 to 9 systems with a load balancer may get reduced to just one system handling the same workload).
+# Technology, Cost and Speed Matters
+If a query runs 10 times faster on a new technology database, theoretically it should reduce the cost of infrastructure by 10 times. Practically, may be 7 to 9 times or may be more, and its considerable cost saving. (7 to 9 systems with a load balancer may get reduced to just one system handling the same workload).
